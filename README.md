@@ -10,6 +10,7 @@
 ![Figure 2021-12-09 232001](https://user-images.githubusercontent.com/65255629/145528791-6b2757f6-cb40-4c63-a2f9-26aa280ed074.png)
  
  <p>https://data.cityofnewyork.us/w/5ucz-vwe8/25te-f2tw?cur=jq0H9ddQzTT&from=root : This dataset gives information on shootings in New York city. It Shows the Borough the shooting occured in, victim information and location. </p>
+ ![Figure 2021-12-10 014959](https://user-images.githubusercontent.com/65255629/145530423-4fdb63d0-9885-4202-b8f7-62a46ca7d282.png)
  
  <h1>Techniques</h1>
 <p>I utilized python in order to Analyze the data. I used matplotlib To visualize my findings and test my hyopthesis. For datacollection my main sources were any NYC offical websites along with Kaggle. I searched google for key terms that. were relavent to the things I wanted to research. Once data was found it was analyzed and visualized. </p>
