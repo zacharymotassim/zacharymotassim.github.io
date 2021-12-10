@@ -1,7 +1,7 @@
 <h1>A Safe New York City</h1>
 <p> My goal is to investigate the many aspects of New York life and see what contributes to crime rates.</p>
 <img src="https://www.pngall.com/wp-content/uploads/10/New-York-City-PNG-Image-HD.png" alt="NYC" width="400" height="400">
- <p> Overview: I researched datasets mostly from New Yotk state in order to analyze crime trends. My overall Hypothesis is that Crime in New YorkCity does not just need police to stopcrime. There are other factors like quality of living, flawed government officials amongst many others. I utilized Python; specifically the pandas, matplotlib and numpy libraries. </p>
+ <p> Overview: I researched datasets mostly from New Yotk state in order to analyze crime trends. My overall Hypothesis is that Crime in New York City can be decreased through means outside of law enforement. In order to test this I analyzed shortcomings of police officers. I also analyzed the different Boroughs to see where the most crime is happening. If we know where it is happening we can investigate why and come up with viable long term solutions. There are other factors like quality of living, flawed government officials amongst many others. I utilized Python; specifically the pandas, matplotlib and numpy libraries. </p>
 
 <h1> Data: </h1>
  <p>https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page : This is the most important dataset I worked with.This allowed me to gain a bigger picture of the crime in New York and what to analyze next. Crimes were broken down into four catergories: seven major felonies, non-seven major felonies, misdemeanors and city-wide violations. I utilized the citywide toget the best bigger picture of crime in New York City possible.</p>
