@@ -5,6 +5,8 @@
 
 <h1> Data: </h1>
  <p>https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page : This is the most important dataset I worked with.This allowed me to gain a bigger picture of the crime in New York and what to analyze next. Crimes were broken down into four catergories: seven major felonies, non-seven major felonies, misdemeanors and city-wide violations. I utilized the citywide toget the best bigger picture of crime in New York City possible.</p>
+ ![creimebyyear](https://user-images.githubusercontent.com/65255629/145530601-72709a1b-4b0c-45d0-8d8f-b3be4cc02b00.png)
+
  
  <p>https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers : While most of us associate police with crime prevention I wanted to see if the ooposite was true. This dataset gives information of complaints againstpolice officers. This dataset allows us to gain perspective of details of negative altercations with the police. This includes detailed information on both the officer, victim, year and precinct.</p>
 ![Figure 2021-12-09 232001](https://user-images.githubusercontent.com/65255629/145528791-6b2757f6-cb40-4c63-a2f9-26aa280ed074.png)
