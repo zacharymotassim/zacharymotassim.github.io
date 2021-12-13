@@ -5,6 +5,7 @@
 
 <h1> Data: </h1>
  <p>https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page : This is the most important dataset I worked with.This allowed me to gain a bigger picture of the crime in New York and what to analyze next. Crimes were broken down into four catergories: seven major felonies, non-seven major felonies, misdemeanors and city-wide violations. I utilized the citywide toget the best bigger picture of crime in New York City possible.</p>
+ <img width="336" alt="Screen Shot 2021-12-13 at 10 05 26 AM" src="https://user-images.githubusercontent.com/65255629/145836756-89be6afe-ce42-498e-8d51-02446b5d9d61.png">
  ![creimebyyear](https://user-images.githubusercontent.com/65255629/145530601-72709a1b-4b0c-45d0-8d8f-b3be4cc02b00.png)
 
  
